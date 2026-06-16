@@ -51,7 +51,7 @@ Currently building **RunCoach AI** — a self-hosted running analytics dashboard
 
 ### Currently building
 
-**[RunCoach AI](https://github.com/simonkoch-dev/runcoach-ai)** — Self-hosted running dashboard that outperforms Garmin Connect and Strava analytics. Connects Strava, Garmin, HRV data, and an AI coach (Claude via MCP) that gives world-class coaching advice based on your actual training data. Stack: FastAPI · PostgreSQL/TimescaleDB · Next.js · Docker.
+**[RunCoach AI](https://github.com/simonkoch-dev/runcoach-ai)** — Self-hosted running dashboard that outperforms Garmin Connect and Strava analytics. Connects Strava, Garmin, HRV data, and an AI coach (Google Gemini / Claude via MCP) that gives world-class coaching advice based on your actual training data. Stack: FastAPI · PostgreSQL/TimescaleDB · Next.js · Docker.
 
 ---
 
