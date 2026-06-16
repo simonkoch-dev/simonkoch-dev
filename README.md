@@ -1,16 +1,72 @@
-## Hi there 👋
+### Hey, I'm Simon Koch 👋
 
-<!--
-**simonkoch-dev/simonkoch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at **HTL Hollabrunn** (Informationstechnologie) — a 5-year technical college in Austria where I learn to build software, secure networks, and work with data. Graduating with the Austrian Matura + engineering diploma.
 
-Here are some ideas to get you started:
+Currently building **RunCoach AI** — a self-hosted running analytics dashboard with an AI coaching engine powered by Claude + MCP. Think TrainingPeaks, but open-source and actually intelligent.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm learning at HTL
+
+<table>
+  <tr>
+    <td><b>Software Development</b></td>
+    <td>Java · Python · C++ · Web Apps · Agile methods · Linux</td>
+  </tr>
+  <tr>
+    <td><b>Databases & Data</b></td>
+    <td>SQL · Big Data · data modeling · database design</td>
+  </tr>
+  <tr>
+    <td><b>Networking</b></td>
+    <td>TCP/IP · Firewalls · Network configuration · MikroTik</td>
+  </tr>
+  <tr>
+    <td><b>IT Security</b></td>
+    <td>Penetration testing · network hardening · cybersecurity fundamentals</td>
+  </tr>
+  <tr>
+    <td><b>Media & Web</b></td>
+    <td>UI/UX · Web design · Multimedia production</td>
+  </tr>
+  <tr>
+    <td><b>Computer Systems</b></td>
+    <td>Cloud computing · IoT · Microcontrollers · OS internals</td>
+  </tr>
+</table>
+
+---
+
+### Tech I'm working with
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Currently building
+
+**[RunCoach AI](https://github.com/simonkoch-dev/runcoach-ai)** — Self-hosted running dashboard that outperforms Garmin Connect and Strava analytics. Connects Strava, Garmin, HRV data, and an AI coach (Claude via MCP) that gives world-class coaching advice based on your actual training data. Stack: FastAPI · PostgreSQL/TimescaleDB · Next.js · Docker.
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonkoch-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5A623&icon_color=F5A623" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonkoch-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F5A623" height="150" />
+</p>
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simonkoch-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:simon.koch@stud.it.htl-hl.ac.at)
+
+> 📍 Korneuburg, Austria · Open to internships & collaborations
